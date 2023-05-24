@@ -1,0 +1,24 @@
+.round{
+  border-radius:2rem;
+}
+
+
+.round-1{
+  border-radius:0 2rem 0 0;
+}
+
+.round-2{
+  border-radius:0 0 0 2rem;
+}
+
+.round-0{
+  border-radius:1rem;
+}
+
+.m
+{
+  margin-top:20vh;
+}
+.center{
+  text-align: center;
+}
